@@ -30,6 +30,9 @@ My performance-focused fork of Reshef Elisha's jarvis-onshape-mcp, connecting AI
 **[3D Printing Pulse](https://github.com/Bennyco86/3DprintingPulse)**  
 An automated daily 3D-printing news digest for Quality3Ds.
 
+**[Bambu Lab Chamber Heater Control](https://github.com/Bennyco86/BambuLabChamberHeater)**  
+An n8n, MQTT and Python workflow for printer auto-resume and chamber-heater control, with an always-on Orange Pi bridge and cached temperature data.
+
 Some app repositories contain public product, privacy and support pages; the app table above links to product information and official downloads.
 
 ## Websites and physical products
